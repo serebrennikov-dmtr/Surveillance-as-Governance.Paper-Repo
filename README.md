@@ -1,4 +1,4 @@
-# Surveillance-as-Governance.Paper-Repo
+# Surveillance as Governance: Policing Effectiveness and Political Control in the Moscow AI Experiment (Replication data and code)
 
 ## Repository Structure
 
